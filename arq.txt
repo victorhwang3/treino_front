@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Um texto
-=======
-z
->>>>>>> 63398aa0310a9b94b084ba277663c67162064c13
+Um texto dhr
